@@ -1,0 +1,84 @@
+div.title{
+    width:1000px;
+    height:40px;
+    background-color:mediumaquamarine;
+    text-align: left;
+    font-size:30px;
+    font-family:"Impact"
+
+}
+
+
+
+div.footer{
+    width:1000px;
+    height:40px;
+    background-color:cadetblue;
+    text-align:right;
+    font-size:30px;
+    font-family:"Impact";
+    margin:10px 0px;
+}
+
+div.middle{
+    width:1000px;
+    height:320px;
+    font-size:0px;
+    margin:10px 0px;
+    
+
+
+
+}
+
+div.left{  
+    width:250px;
+    height:0;
+    background-color: deepskyblue;
+    display:inline-block;
+    text-align: left;
+    font-size:10px;
+    vertical-align: top;
+    
+}
+
+
+div.menu{
+    width:250px;
+    height:100px;
+    background-color: deepskyblue;
+    text-align: center;
+    font-size:10px;
+    margin-right: 50px;
+    vertical-align: top;
+    margin-bottom: 10px;
+}
+
+
+div.images{
+    width:700px;
+    height:300px;
+    background-color: beige;
+    text-align: center;
+    display:inline-block;
+    vertical-align:bottom;
+    font-size: 40px;
+}
+
+
+div.under{
+    width:700px;
+    height:20px;
+    background-color: aquamarine;
+    text-align: left;
+    font-size: 10px; 
+    display:inline-block;
+    vertical-align:bottom;
+}
+
+
+div.right{ 
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 300px;
+}
