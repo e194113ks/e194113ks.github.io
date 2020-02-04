@@ -1,0 +1,42 @@
+h1{
+    color:gray;
+    font-size:60;
+    font-weight:bold;
+    font-family:fantasy;
+    text-align: center;
+    background-color: cornsilk;
+}
+
+
+     
+
+h2{ color:snow;
+    font-size:30;
+    font-weight:bold;
+    font-family:sans-serif;
+    text-align: center;
+    background-color: powderblue;
+    
+}
+
+h2.uno{
+    color:darkviolet;
+    background-color: antiquewhite;
+  
+   
+}
+
+h1.link{
+    color: crimson;
+    background-color: dimgrey;
+}
+
+
+
+body{
+    background-image: url("../images/haikei.jpg");
+    background-repeat:repeat;
+    background-attachment:fixed;
+}
+
+p{text-align: center;}
