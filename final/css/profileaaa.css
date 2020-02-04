@@ -1,0 +1,325 @@
+
+div.logo{
+    width:1000px;
+    height:100px;
+    text-align: center;
+    margin: auto;
+    background-attachment: scroll;
+}
+
+div.menu{
+        width:1000px;
+    height:5204px;
+    text-align: center;
+    font-size:0px;
+    margin: auto;
+    margin-top: 30px;
+    vertical-align: top;
+    
+}
+
+div.menuitem{
+        width:250px;
+    height:50px;
+    display: inline-block;
+    text-align:center;
+    color: black;
+    font-size:40px;
+    font-family: monospace;
+    margin: auto;
+}
+
+div.content{
+    width:1000px;
+    height:90px;
+    margin: auto;
+    font-family: monospace;
+    display: inline-block;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    background-color: cornflowerblue;
+    vertical-align: top;
+    
+}div.content2{
+    width:1000px;
+    height:90px;
+    margin: auto;
+    font-family: monospace;
+    display: inline-block;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 350px;
+    background-color: cornflowerblue;
+    vertical-align: top;
+    
+}
+
+
+
+div.name{
+    width:1000px;
+    height:130px;
+    display: inline-block;
+    font-family: monospace;
+    font-size: 30px;
+    margin: auto;
+}
+
+div.pro{
+    width:1000px;
+    height:500px;
+    font-family: monospace;
+    font-size: 25px;
+    color: gray;
+    margin: auto;
+}
+
+div.member{
+    width:1000px;
+    height:2000px;
+    display:inline-block;
+    font-size: 0px;
+}
+
+div.photo2{
+    width:500px;
+    height:651px;
+    display:inline-block;
+    font-family:monospace;
+    font-size: 30px;
+    background-color:orange;
+    color: white;
+    text-align: center;
+    margin: auto;
+    vertical-align: top;
+    
+}
+
+div.photo3{
+    width:500px;
+    height:651px;
+    display:inline-block;
+    font-family:monospace;
+    font-size: 30px;
+    background-color:plum;
+    color: white;
+    text-align: center;
+    margin: auto;
+    vertical-align: top;
+    
+}
+
+div.photo4{
+    width:500px;
+    height:651px;
+    display:inline-block;
+    font-family:monospace;
+    font-size: 30px;
+    background-color:gold;
+    color: white;
+    text-align: center;
+    margin: auto;
+    vertical-align: top;
+    
+}
+
+div.photo5{
+    width:500px;
+    height:651px;
+    display:inline-block;
+    font-family:monospace;
+    font-size: 30px;
+    background-color:lightskyblue;
+    color: white;
+    text-align: center;
+    margin: auto;
+    vertical-align: top;
+    
+}
+
+div.photo6{
+    width:500px;
+    height:651px;
+    display:inline-block;
+    font-family:monospace;
+    font-size: 30px;
+    background-color:lightpink;
+    color: white;
+    text-align: center;
+    margin: auto;
+    vertical-align: top;
+    
+}
+div.cen{
+    width:500px;
+    height:50px;
+    font-size: 30px;
+    text-align: right;
+}
+
+div.footer{
+    width:1000px;
+    height:30px;
+    background-color:blue;
+    text-align:right;
+    color: white;
+    font-size:20px;
+    margin:auto;
+}
+
+
+.hidelink{
+    text-decoration: none;
+    color: black;
+    
+}
+  
+.hidelink:hover{
+    text-decoration: underline;
+    color: orange;
+}
+
+.hidelink2{
+    text-decoration: none;
+    color: black;
+    
+}
+  
+.hidelink2:hover{
+    text-decoration: underline;
+    color:cornflowerblue;
+}
+
+.hidelink3{
+    text-decoration: none;
+    color: black;
+    
+}
+  
+.hidelink3:hover{
+    text-decoration: underline;
+    color:black;
+}
+
+.hidelink4{
+    text-decoration: none;
+    color: black;
+    
+}
+  
+.hidelink4:hover{
+    text-decoration: underline;
+    color: orange;
+}
+.hidelink5{
+    text-decoration: none;
+    color: black;
+    
+}
+  
+.hidelink5:hover{
+    text-decoration: underline;
+    color: plum;
+}
+
+.hidelink6{
+    text-decoration: none;
+    color: black;
+    
+}
+  
+.hidelink6:hover{
+    text-decoration: underline;
+    color: gold;
+}
+
+
+.hidelink7{
+    text-decoration: none;
+    color: black;
+    
+}
+  
+.hidelink7:hover{
+    text-decoration: underline;
+    color: lightskyblue;
+}
+
+.hidelink8{
+    text-decoration: none;
+    color: black;
+    
+}
+  
+.hidelink8:hover{
+    text-decoration: underline;
+    color: lightpink;
+}
+
+.hidelink9{
+    text-decoration: none;
+    color: white;
+    
+}
+  
+.hidelink9:hover{
+    text-decoration: underline;
+    color: orangered;
+}
+
+.hidelink10{
+    text-decoration: none;
+    color: white;
+    
+}
+  
+.hidelink10:hover{
+    text-decoration: underline;
+    color: palevioletred;
+}
+
+.hidelink11{
+    text-decoration: none;
+    color: white;
+    
+}
+  
+.hidelink11:hover{
+    text-decoration: underline;
+    color: yellow;
+}
+
+.hidelink12{
+    text-decoration: none;
+    color: white;
+    
+}
+  
+.hidelink12:hover{
+    text-decoration: underline;
+    color: blue;
+}
+
+.hidelink13{
+    text-decoration: none;
+    color: white;
+    
+}
+  
+.hidelink13:hover{
+    text-decoration: underline;
+    color: hotpink;
+}
+
+.hidelink14{
+    text-decoration: none;
+    color: black;
+    
+}
+  
+.hidelink14:hover{
+    text-decoration: underline;
+    color: plum;
+}
