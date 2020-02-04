@@ -1,0 +1,220 @@
+div.title{
+    width:1000px;
+    height:30px;
+    text-align: center;
+    font-size:20px;
+    color: white;
+    background-color:blue;
+    margin: auto;
+}
+
+div.title2{
+    width:1000px;
+    height:720px;
+    text-align: center;
+    margin: auto;
+    margin-top: 30px;
+  
+    
+    
+}
+
+div.logo{
+    width:1000px;
+    height:100px;
+    text-align: center;
+    margin: auto;
+    background-attachment: scroll;
+}
+
+
+div.menu{
+    width:1000px;
+    height:1356px;
+    text-align: center;
+    font-size:0px;
+    margin: auto;
+    margin-top: 30px;
+    vertical-align: top;
+    
+
+
+
+}
+
+
+div.content{
+    width:1000px;
+    height:90px;
+    margin: auto;
+    font-family: monospace;
+    display: inline-block;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    background-color: black;
+    vertical-align: top;
+    
+}
+
+
+
+div.menuitem{
+    width:250px;
+    height:50px;
+    display: inline-block;
+    text-align:center;
+    color: black;
+    font-size:40px;
+    font-family: monospace;
+    margin: auto;
+}
+
+
+
+
+    
+    
+div.profile{
+    width:500px;
+    height:445px;
+    display: inline-block;
+    text-align: center;
+    font-family: monospace;
+    font-size: 28px;
+  background-color: white;
+    margin: auto;
+    vertical-align: top;
+    
+    
+}
+
+div.profile2{
+    width:500px;
+    height:170px;
+    display: inline-block;
+    text-align: right;
+    font-family: monospace;
+    font-size: 23px;
+    margin: auto;
+    vertical-align: top;
+    
+    
+}
+
+div.solo{
+    width:1000px;
+    height:200px;
+    margin: auto;
+    font-size:0px; 
+    background-color: black;
+}
+
+div.name{
+    width:1000px;
+    height:40px;
+    font-size: 30px;
+    text-align: center;
+    font-family: "Impact";
+    color:white;
+}
+
+div.solosite{
+    width:333px;
+    height:50px;
+    display: inline-block;
+    font-size: 30px;
+    text-align: center;
+    color:white;
+    background-color:;
+}
+
+div.solosite2{
+    width:500px;
+    height:50px;
+    display: inline-block;
+    font-size: 30px;
+    text-align: center;
+    color:white;
+    background-color:;
+}
+
+
+div.footer{
+    width:1000px;
+    height:30px;
+    background-color:blue;
+    text-align:right;
+    color: white;
+    font-size:20px;
+    margin:auto;
+}
+
+
+
+.hidelink{
+    text-decoration: none;
+    color: white;
+    
+}
+  
+.hidelink:hover{
+    text-decoration: underline;
+    color: cornflowerblue;
+}
+
+
+.hidelink2{
+    text-decoration: none;
+    color: black;
+    
+}
+  
+.hidelink2:hover{
+    text-decoration: underline;
+    color: cornflowerblue;
+}
+
+.hidelink3{
+    text-decoration: none;
+    color: black;
+    
+}
+  
+.hidelink3:hover{
+    text-decoration: underline;
+    color: orange;
+}
+
+.hidelink4{
+    text-decoration: none;
+    color: white;
+    
+}
+  
+.hidelink4:hover{
+    text-decoration: underline;
+    color: plum;
+}
+
+.hidelink5{
+    text-decoration: none;
+    color: black;
+    
+}
+  
+.hidelink5:hover{
+    text-decoration: underline;
+    color: plum;
+}
+.hidelink6{
+    text-decoration: none;
+    color: black;
+    
+}
+  
+.hidelink6:hover{
+    text-decoration: underline;
+    color:lightpink;
+}
+

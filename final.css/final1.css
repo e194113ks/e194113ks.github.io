@@ -1,0 +1,30 @@
+div.title{
+    width:200px;
+    height:100px;
+    text-align:center;
+    
+    
+}
+
+
+
+div.footer{
+    width:800px;
+    height:50px;
+    background-color:
+    font-size:30px;
+    font-family: "Impact";
+    margin:10px 0px;
+}
+
+
+
+div.footer4{
+    width:1000px;
+    height:50px;
+    background-color: cornflowerblue;
+    font-size:20px;
+    text-align: right;
+    font-family: fantasy;
+    
+}
